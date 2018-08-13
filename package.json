@@ -1,0 +1,12 @@
+{
+  "name": "messages-for-desktop",
+  "version": "1.0.0",
+  "description": "Messages for desktop connects to your phone to sync messages. To reduce data usage, connect your phone to Wi-Fi.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
